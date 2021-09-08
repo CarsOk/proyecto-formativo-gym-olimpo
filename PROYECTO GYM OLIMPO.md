@@ -1,4 +1,4 @@
-#PROYECTO GYM OLIMPO
+# PROYECTO GYM OLIMPO
 
 Este es un proyecto que busca sastifacer la necesidades<br>
 del ***GYM OLIMPO***. Analizando, diseñando y desarrolando <br>
