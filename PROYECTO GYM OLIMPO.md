@@ -1,4 +1,4 @@
-###PROYECTO GYM OLIMPO
+#PROYECTO GYM OLIMPO
 
 Este es un proyecto que busca sastifacer la necesidades<br>
 del ***GYM OLIMPO***. Analizando, diseñando y desarrolando <br>
@@ -12,3 +12,4 @@ que necesita el cliente.
 - [BRAYAN IZQUIERDO](hojas-de-vidas/hdv-brayan-izquierdo.md)
 - [JHON MARIO CASTRO](hojas-de-vidas/hdv-johan-rodriguez.md)
 - [KATHERIN RICARDO](hojas-de-vidas/hdv-katherin-ricardo.md)
+- [JOHAN RODRIGUEZ](hojas-de-vidas/hdv-johan-rodriguez.md)
