@@ -7,7 +7,7 @@ que necesita el cliente.
 
 ***INTEGRANTES DEL PROYECTO***
 
-- [ANDRE ROVIRA](hojas-de-vidas/hdv-andrea-rovira.md)
+- [ANDREA ROVIRA](hojas-de-vidas/hdv-andrea-rovira.md)
 - [ANDRES MONTENERO](hojas-de-vidas/hdv-andres-montenegro.md)
 - [BRAYAN IZQUIERDO](hojas-de-vidas/hdv-brayan-izquierdo.md)
 - [JHON MARIO CASTRO](hojas-de-vidas/hdv-johan-rodriguez.md)
