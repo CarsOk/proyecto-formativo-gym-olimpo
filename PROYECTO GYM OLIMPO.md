@@ -1,9 +1,9 @@
 # PROYECTO GYM OLIMPO
 
-Este es un proyecto que busca sastifacer la necesidades<br>
+Este es un proyecto que busca satisfacer la necesidades<br>
 del ***GYM OLIMPO***. Analizando, diseñando y desarrolando <br>
 un sistema de informacion que cumplan con los requisitos<br>
-que necesita el cliente.
+y las necesidades del gimnasio gym olimpo.
 
 ***INTEGRANTES DEL PROYECTO***
 
