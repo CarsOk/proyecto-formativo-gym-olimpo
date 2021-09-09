@@ -19,4 +19,4 @@ esto son los cuestionarios que se les estara realizando<br>
 tanto a los propietarios como a los clientes del gym olimpo<br>
 para la recoleccion de informacion del gimnasio 
 - [CUESTIONARIO PARA CLIENTES](avance-del-proyecto/cuestionario/formulario-clientes.md)
-- [CUESTIONARIO PARA PROPIETARIOS-E-INSTRUCTORES](avance-del-proyecto/cuestionario/formulario-propietarios-e-instrustores.md)
+- [CUESTIONARIO PARA INSTRUCTORES](avance-del-proyecto/cuestionario/formulario-instrustores.md)
