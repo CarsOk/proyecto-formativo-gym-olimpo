@@ -13,3 +13,10 @@ y las necesidades del gimnasio gym olimpo.
 - [JHON MARIO CASTRO](hojas-de-vidas/hdv-johan-rodriguez.md)
 - [KATHERIN RICARDO](hojas-de-vidas/hdv-katherin-ricardo.md)
 - [JOHAN RODRIGUEZ](hojas-de-vidas/hdv-johan-rodriguez.md)
+
+***CUESTIONARIO***
+esto son los cuestionarios que se les estara realizando<br>
+tanto a los propietarios como a los clientes del gym olimpo<br>
+para la recoleccion de informacion del gimnasio 
+- [CUESTIONARIO PARA CLIENTES](avance-del-proyecto/cuestionario/formulario-clientes.md)
+- 
