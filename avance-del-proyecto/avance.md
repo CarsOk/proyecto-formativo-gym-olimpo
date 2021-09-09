@@ -49,6 +49,7 @@ CADA ETAPA REPRESENTA UNA PARTE DEL CUERPO Y UNA ENSEÑANZA <br>
 <img src="img-del-proyecto/ZEUZ.jpg" width="250">
 
 | **ZEUZ (PODER)** | SIGNIFICADO |
+| ---- | ---- |
 | SABIDURIA | ---- |
 | ESTABILIDAD | ---- |
 | VALENTIA | ---- |
