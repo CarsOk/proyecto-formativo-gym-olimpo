@@ -36,7 +36,7 @@ __________________________________________________________
 * Ejercicio de fortalecimiento de huesos
 * Ejercicio de resistencia
 * Ejercicio aeróbico
-Otro:<br>
+* Otro:<br>
 ***¿ Cuales es tu horario de clase ?***<br>
 * Diurno
 * Nocturno
