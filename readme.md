@@ -14,7 +14,7 @@ y las necesidades del gimnasio gym olimpo.
 - [KATHERIN RICARDO](hojas-de-vidas/hdv-katherin-ricardo.md)
 - [JOHAN RODRIGUEZ](hojas-de-vidas/hdv-johan-rodriguez.md)
 
-***CUESTIONARIO***
+***CUESTIONARIO***<br>
 esto son los cuestionarios que se les estara realizando<br>
 tanto a los propietarios como a los clientes del gym olimpo<br>
 para la recoleccion de informacion del gimnasio 
