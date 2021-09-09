@@ -29,8 +29,7 @@ especialmente para el cliente o miembros del olimpo
 ***¿ El personal resuelve tus dudas e inquietud amablemente ?***
 * Sí
 * No<br>
-***¿ Cual ha sido la experiencia mas fascinante en lo que llevas en el olimpo ?***
-¿ Como es el trato de los instructores
+***¿ Como es el trato de los instructores ?***
 * buena
 * regular
 * mala<br>
@@ -40,10 +39,23 @@ especialmente para el cliente o miembros del olimpo
 * Amigos
 * Familia
 * Otros<br>
+
 ***¿ Que lo impulsor a seguir a la familia olimpo ?***
+
+____________________________________________________________________________
 
 ***¿ Por que te gusta la familia olimpo ?***
 
+____________________________________________________________________________
+
 ***¿ Que te gustaría que implemente o que se haga en el olimpo ?***
 
+_____________________________________________________________________________
+
 ***¿ Que es lo que no te gusta de olimpo ?***
+
+_____________________________________________________________________________
+
+***¿ Cual ha sido la experiencia mas fascinante en lo que llevas en el olimpo ?***
+
+_____________________________________________________________________________
