@@ -10,7 +10,7 @@ Olimpo tiene cinco etapas que son: <br>
 
 CADA ETAPA REPRESENTA UNA PARTE DEL CUERPO Y UNA ENSEÑANZA <br>
 
-<img src="img/AEOLO.jpg" width="250">
+<img src="img-del-proyecto/AEOLO.jpg" width="250">
 
 | **AEOLO** | SIGNIFICADO |
 | ---- | ---- |
@@ -19,7 +19,7 @@ CADA ETAPA REPRESENTA UNA PARTE DEL CUERPO Y UNA ENSEÑANZA <br>
 | IMAGINACION | ---- |
 | PARTE DEL CUERPO EN CARGADA | ---- |
 
-<img src="img/GEA.jpg" width="250">
+<img src="img-del-proyecto/GEA.jpg" width="250">
 
 | **GEA** | SIGNIFICADO |
 | ---- | ---- |
