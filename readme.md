@@ -15,18 +15,6 @@ y las necesidades del gimnasio gym olimpo.
 - [KATHERIN RICARDO](hojas-de-vidas/hdv-katherin-ricardo.md)
 - [JOHAN RODRIGUEZ](hojas-de-vidas/hdv-johan-rodriguez.md)
 
-
-***PROGRAMAS DE ENTRENAMIENTO***<br>
-
-En gym olimpo no solo entrenas tu cuerpo sino tambien tu mente<br>
-y tu espirutu con nuestras distintas etapas del programa<br>
- ***DIOSES DEL OLIMPO***<br>
-
-![DIOSES DEL OLIMPO](avance-del-proyecto\img-del-proyecto\collage-olimpo.jpg)
-<br>
-conoce mas de sus programas - [Aqui](avance-del-proyecto\readme.md)
-<br>
-<br>
 ***CUESTIONARIO***<br>
 
 esto son los cuestionarios que se les estara realizando<br>
