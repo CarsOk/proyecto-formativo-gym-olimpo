@@ -22,14 +22,17 @@ En gym olimpo no solo entrenas tu cuerpo sino tambien tu mente<br>
 y tu espirutu con nuestras distintas etapas del programa<br>
  ***DIOSES DEL OLIMPO***<br>
 
-![DIOSES DEL OLIMPO](avance-del-proyecto\img-del-proyecto\collage.jpg)
+![DIOSES DEL OLIMPO](avance-del-proyecto\img-del-proyecto\collage-olimpo.jpg)
 <br>
-conoce mas de sus programas - [Aqui](avance-del-proyecto\avance.md)
+conoce mas de sus programas - [Aqui](avance-del-proyecto\readme.md)
 <br>
 <br>
 ***CUESTIONARIO***<br>
+
 esto son los cuestionarios que se les estara realizando<br>
 tanto a los propietarios como a los clientes del gym olimpo<br>
 para la recoleccion de informacion del gimnasio
+
 - [CUESTIONARIO PARA CLIENTES](avance-del-proyecto/cuestionario/formulario-clientes.md)
 - [CUESTIONARIO PARA INSTRUCTORES](avance-del-proyecto/cuestionario/formulario-instructor.md)
+
