@@ -28,3 +28,8 @@ para la recoleccion de informacion del gimnasio
 
 - [AVANCE](avance-del-proyecto/avance.md)
 
+***definicion de proyecto***
+
+Este es un proyecto que busca satisfacer las necesidades del GYM OLIMPO. Analizando, diseñando y desarrollando un sistema de información que cumplan con los requisitos y las necesidades del gimnasio olimpo, a través de un aplicativo web para el manejo de las ventas e información.
+
+- [Definicion de proyecto](avances-del-proyecto/definicion-de-proyecto/definicion-de-proyecto.md)
