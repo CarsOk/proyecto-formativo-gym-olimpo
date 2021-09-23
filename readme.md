@@ -24,11 +24,13 @@ para la recoleccion de informacion del gimnasio
 - [CUESTIONARIO PARA CLIENTES](avance-del-proyecto/cuestionario/formulario-clientes.md)
 - [CUESTIONARIO PARA INSTRUCTORES](avance-del-proyecto/cuestionario/formulario-instructor.md)
 
-**AVANCE DEL PROYECTO**
+***ETAPAS GYM OLIMPO***<br>
 
-- [AVANCE](avance-del-proyecto/avance.md)
+<img src="avance-del-proyecto/img-del-proyecto/collage-olimpo.jpg" width="300"><br>
 
-***definicion de proyecto***
+- [ETAPAS DEL OLIMPO](avance-del-proyecto/ETAPAS-DE-OLIMPO.md)
+
+***DEFINICION DEL PROYECTO***
 
 Este es un proyecto que busca satisfacer las necesidades del GYM OLIMPO. Analizando, diseñando y desarrollando un sistema de información que cumplan con los requisitos y las necesidades del gimnasio olimpo, a través de un aplicativo web para el manejo de las ventas e información.
 
