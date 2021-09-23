@@ -26,5 +26,5 @@ para la recoleccion de informacion del gimnasio
 
 **AVANCE DEL PROYECTO**
 
--[AVANCE](avance-del-proyecto/avance.md)
+- [AVANCE](avance-del-proyecto/avance.md)
 
