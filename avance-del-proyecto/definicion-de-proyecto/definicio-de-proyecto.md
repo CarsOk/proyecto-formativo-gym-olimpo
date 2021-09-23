@@ -48,7 +48,7 @@ Este es un proyecto que busca satisfacer las necesidades del GYM OLIMPO. Analiza
 
 ## 1. Ubicación contextual del proyecto.
 
-<img src="img-del-proyecto/ubicacion.jpg" width="250">
+<img src="img/ubicacion.jpg" width="250">
 
 - CARRERA 41 #65B-55, BARRANQUILLA, ATLANTICO
 
