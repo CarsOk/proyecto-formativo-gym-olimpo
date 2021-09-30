@@ -19,7 +19,7 @@ acabo el ***TEAM THE TROJANS*** supervisado por los intructores del ***SENA*** <
 - [KATHERIN RICARDO](hojas-de-vidas/hdv-katherin-ricardo.md)
 - [JOHAN RODRIGUEZ](hojas-de-vidas/hdv-johan-rodriguez.md)
 <br>
-<br>
+
 ### INTRODUCCION
 
 El ***GYM OLIMPO*** es un centro de acondicionamiento fisico de alta motivacion especialista en procesos personalizados y nutricion. 
