@@ -9,7 +9,7 @@ Olimpo tiene cinco etapas que son: <br>
 **POSEIDON** <br>
 **ZEUZ** <br>
 
-CADA ETAPA REPRESENTA UNA PARTE DEL CUERPO Y UNA ENSEÑANZA <br>
+CADA CASA  REPRESENTA UNA PARTE DEL CUERPO Y UNA ENSEÑANZA <br>
 
 <img src="img-del-proyecto/AEOLO.jpg" width="250">
 
