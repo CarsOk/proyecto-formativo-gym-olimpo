@@ -1,7 +1,7 @@
 # ETAPAS DE OLIMPO <br>
 GYM OLIMPO no es un simple gimnasio que solo se en carga del cuerpo si no de la mente te ayuda a crecer tanto en lo fisico como en la 
 personalidad. 
-Olimpo tiene cinco etapas que son: <br>
+Olimpo tiene cinco casa que son: <br>
 
 **AEOLO** <br>
 **GEA** <br>
