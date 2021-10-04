@@ -77,11 +77,11 @@ Contamos con los recursos y conocimiento en la parte t√©cnica para la elaboraci√
 
 #### Formulario para clientes.
 
-- [CUESTIONARIO PARA CLIENTES](avance-del-proyecto/cuestionario/formulario-clientes.md)
+- [CUESTIONARIO PARA CLIENTES](olimpo/cuestionario/formulario-clientes.md)
 
 #### Formulario para instructores.
 
-- [CUESTIONARIO PARA INSTRUCTORES](avance-del-proyecto/cuestionario/formulario-instructor.md)
+- [CUESTIONARIO PARA INSTRUCTORES](olimpo/cuestionario/formulario-instructor.md)
 
 ### Viabilidad del proyecto.
 
