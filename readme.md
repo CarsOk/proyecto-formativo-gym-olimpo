@@ -39,6 +39,12 @@ Este es un proyecto que busca satisfacer las necesidades del GYM OLIMPO. Analiza
 
 - [DEFINICION DE PROYECTO](olimpo/definicion-de-proyecto/definicio-de-proyecto.md)
 
+***STAKEHOLDERS***
+la plantila de stakeholders es donde se muestran los roles que cumplen cada persona interesadas en el proyecto
+y una pequeña definiciion del rol.
+
+- [stakeholders](olimpo/stakeholders/olimpo.md)
+
 ***CUESTIONARIO***<br>
 
 esto son los cuestionarios que se les estara realizando tanto a los propietarios como a los clientes del gym olimpo para la recoleccion de informacion del gimnasio<br>
