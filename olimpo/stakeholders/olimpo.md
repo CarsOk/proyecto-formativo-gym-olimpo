@@ -1,5 +1,6 @@
 # plantilla stakeholders #
 
+| GYM OLIMPO, PROYECTO DE DESARROLLO DE SOFTWARE, PLANTILLA STAKEHOLDERS | 
 | codigo | rol o cargo | descripcion del rol o interes | nivel de influencia | interes en el proyecto |
 | --- | --- | --- | --- | --- |
 | SI7001 | propietaria | persona interesada en que se lleve acabo el proyecto | ALTO | economico |
