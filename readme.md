@@ -43,7 +43,7 @@ Este es un proyecto que busca satisfacer las necesidades del GYM OLIMPO. Analiza
 la plantila de stakeholders es donde se muestran los roles que cumplen cada persona interesadas en el proyecto
 y una pequeña definiciion del rol.
 
-- [stakeholders](olimpo/stakeholders/olimpo.md)
+- [STAKEHOLDERS](olimpo/stakeholders/olimpo.md)
 
 ***CUESTIONARIO***<br>
 
