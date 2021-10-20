@@ -62,3 +62,5 @@ esto son los cuestionarios que se les estara realizando tanto a los propietarios
 ***PLANTILLA SRS***
 
 En esta carpeta encontraras la plantilla srs cuyo proposito es mostrar una descripcion mas detallada de nuestro sistema de informacion.
+
+- [PLANTILLA SRS](olimpo/plantilla-srs/plantilla-srs.md)
