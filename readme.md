@@ -58,3 +58,7 @@ esto son los cuestionarios que se les estara realizando tanto a los propietarios
 
 - [CUESTIONARIO PARA CLIENTES](olimpo/cuestionario/formulario-clientes.md)
 - [CUESTIONARIO PARA INSTRUCTORES](olimpo/cuestionario/formulario-instructor.md)
+
+***PLANTILLA SRS***
+
+En esta carpeta encontraras la plantilla srs cuyo proposito es mostrar una descripcion mas detallada de nuestro sistema de informacion.
