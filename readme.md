@@ -19,7 +19,7 @@ acabo el ***TEAM THE TROJANS*** supervisado por los intructores del ***SENA*** <
 - [KATHERIN RICARDO](hojas-de-vidas/hdv-katherin-ricardo.md)
 - [JOHAN RODRIGUEZ](hojas-de-vidas/hdv-johan-rodriguez.md)
 - [ALEJANDRA DEL CASTILLO](hojas-de-vidas/hdv-alejandra-delcastillo.md)
-<br>
+- [OSCAR SILVA](hojas-de-vidas/hdv-oscar-silva.md)
 
 ### INTRODUCCION
 
