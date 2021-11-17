@@ -10,29 +10,29 @@
 
 # 	Tabla de Contenido
 
-1.	Introducción	4
-1.1	Propósito	4
-1.2	Alcance	4
-1.3	Definiciones, Acrónimos, y Abreviaturas	4
-1.4	Referencias	5
-1.5	Apreciación Global	5
-2.	Descripción General	5
-2.1	Perspectivas del Producto	5
-2.2	Funciones del Producto	6
-2.3	Características de Usuario	6
-2.4	Restricciones	6
-2.5	Atención y Dependencias	6
-3.	Requerimientos Específicos	7
-3.1	Requerimientos Funcionales	7
-3.2	Requerimientos No Funcionales	11
-3.3	Requerimientos de interfaz de usuario	14
-4.      Determinación de las tecnologías de hardware, software y servicios requerido	16
-4.1	Software	16
-4.2	Hosting	17
-4.3	Computador	18
-4.4	Escáner Lector Código de Barras Automático USB Soporte Base	19
-4.5	Router (Router Inalámbrico/Repetidor WiFi N300Mbps, Tp-Link TL-WR840N)	20
-4.6	Presupuesto	21
+1.	Introducción	
+1.1	 Propósito	
+1.2	 Alcance	
+1.3	 Definiciones, Acrónimos, y Abreviaturas	
+1.4	 Referencias	
+1.5	 Apreciación Global	
+2.	 Descripción General	
+2.1	 Perspectivas del Producto	
+2.2	 Funciones del Producto	
+2.3	 Características de Usuario	
+2.4	 Restricciones	
+2.5	 Atención y Dependencias	
+3.	 Requerimientos Específicos	
+3.1	 Requerimientos Funcionales	
+3.2	 Requerimientos No Funcionales	
+3.3	 Requerimientos de interfaz de usuario	
+4.   Determinación de las tecnologías de hardware, software y    servicios  requerido	
+4.1	 Software	
+4.2	 Hosting
+4.3	 Computador	
+4.4	 Escáner Lector Código de Barras Automático USB Soporte Base	
+4.5	 Router (Router Inalámbrico/Repetidor WiFi N300Mbps, Tp-Link TL-WR840N)	
+4.6	 Presupuesto	
 
 # Especificacion de requerimientos
 
@@ -49,11 +49,11 @@
  El alcance de este sistema de información será la creación de un aplicativo web que permitirá al gimnasio llevar un control de la información y las ventas de sus productos, ingresos de mensualidades, inscripciones.
 Además, este sistema dará apoyo a los procesos de: publicidad, usuarios, login
 
-### Módulo de Publicidad
+## Módulo de Publicidad
 
-### Módulo de usuarios 
+## Módulo de usuarios 
 
-### Modulo login
+## Modulo login
 
 ## 1.3	Definiciones, Acrónimos, y Abreviaturas
 
@@ -76,3 +76,22 @@ Funcionalidad: Descripción de lo que el software debe hacer. Requisito: Es la d
  ### Cliente/Usuarios:  
 
  Son todas las personas quienes hacen uso de los servicios que ofrece la empresa.
+
+# 1.4 Referencias:
+
+## Fusm calidad del software
+
+https://sites.google.com/site/fusmcalidaddelsoftware/proyecto/g-informe-de-especificacion-de-requerimientos/introduccion12/1-3-1-3-definiciones-acronimos-y-abreviaturas
+
+## Requerimientos del software
+
+https://lsi2.ugr.es/~mvega/docis/requeintro.pdf
+
+## Slideshare a Scribd a company 
+
+https://es.slideshare.net/RosaOrtega6/requerimientos-del-software-77144553#:~:text=%EF%82%A1%20Un%20requerimiento%20de%20software,a%20un%20cliente%20o%20usuario
+
+# 1.5 Apreciacion global:
+
+El documento está formado en tres partes; la inducción, dónde se buscará información para proporcionar una visión general de lo que es el documento de especificación de requisitos, Luego está la descripción general dónde se darán a conocer sus principales funciones, restricciones alcanzando objetivos específicos. Y por último están los requerimientos específicos dónde se establece una misión del sistema.
+
