@@ -95,3 +95,36 @@ https://es.slideshare.net/RosaOrtega6/requerimientos-del-software-77144553#:~:te
 
 El documento está formado en tres partes; la inducción, dónde se buscará información para proporcionar una visión general de lo que es el documento de especificación de requisitos, Luego está la descripción general dónde se darán a conocer sus principales funciones, restricciones alcanzando objetivos específicos. Y por último están los requerimientos específicos dónde se establece una misión del sistema.
 
+# 2.0 Descripción General:
+
+## 2.1 Perspectivas del Producto:
+
+Nuestra perspectiva del producto es buscar un mejor rendimiento para que Olimpo sea unos de los mejores Gym de la costa, con nuestro programa que le dará facilidad en el manejo y distribución de horario para los clientes, también un control de ejercicio de cada usuario que tenga Olimpo.
+
+## 2.2 Funciones del Producto:
+
+Los procesos y funciones que conforman el sistema de información son los siguientes
+
+- Deben permitir el Acceso de las inquietudes y a la información que tengan los clientes y usuarios.
+
+- Permitir el registro de los clientes.
+
+- Se debe permitir hacer consulta del tipo de información que quiera saber.
+
+- Generar reporte de la información de la empresa. 
+
+- Permitir la visualización de los productos y de las actividades que se realizan.
+
+- Registrar las solicitudes de clientes.
+
+- El sistema debe permitir agregar o registrar nuevas funciones, informaciones y productos.
+
+## 2.3 Características de Usuario:
+
+| Tipo de usuario  | Rol que cumple  | 
+| ----- | ------- |
+| Administrador  | -Tendra acceso  a toda la plataforma para verificar que cumpla con los requerimientos. 
+-Acceso al perfil de los clientes.
+- Acceso con el perfil de los entrenadores. |
+
+
