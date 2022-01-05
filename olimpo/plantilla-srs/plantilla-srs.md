@@ -123,8 +123,34 @@ Los procesos y funciones que conforman el sistema de información son los siguie
 
 | Tipo de usuario  | Rol que cumple  | 
 | ----- | ------- |
-| Administrador  | -Tendra acceso  a toda la plataforma para verificar que cumpla con los requerimientos. 
--Acceso al perfil de los clientes.
-- Acceso con el perfil de los entrenadores. |
+| Administrador  | -Tendra acceso  a toda la plataforma para verificar que cumpla con los requerimientos. -Acceso al perfil de los clientes. -Acceso con el perfil de los entrenadores. |
+| ------- | ------- |
+| Entrenadores | -Acceso al perfil de los clientes. -Acceso a los horarios que tienen disponible. |
+| ------ | ------ |
+| Cliente | -Acceso al horario disponible para apartar la cita. |
+
+## 2.4 Restricciones:
+
+- Contaremos con un tiempo de aprendizaje para poder realizar el aplicativo web
+- Que la empresa cuente con las herramientas para la creación de aplicativo 
+- Que el producto a realizar sea de buena calidad
+- Que el producto satisfaga las necesidades de nuestro cliente
+
+## 2.5 Atencion y dependencia:
+
+Se asume que todo lo escrito en este documento contiene los requisitos del sistema a desarrollar y estos sean uniformes una vez que los admitan, estén disponibles para implementarlo en el sistema operativo donde se instalaría.
+
+## 3.0 Requerimientos especificos:
+
+### 3.1 Requerimientos funcionales:
+
+| Codigo | Nombre | Fecha |  Grado Necesidad |
+| ------ | ----- | ----- | ------- |
+| IP0001 | MODULO DE LOGIN | ---- | ALTA |
+| Descripcion | Este es el módulo inicial, en él se podrá iniciar sesión para así poder entrar a las funcionalidades que se encuentran en el sistema. También se mostrarán un pequeño recuadro con promociones y la posibilidad de registrar nuevos usuarios(clientes) |
+| ----- | ----- | ----- | ----- | ----- |
+| Entradas | Fuente | Salida | Destino | Restricciones | 
+| ----- | ----- | ----- | ----- | ----- |
+|
 
 
