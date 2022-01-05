@@ -165,6 +165,38 @@ Se asume que todo lo escrito en este documento contiene los requisitos del siste
 | ----- | ----- |
 | Descripcion | En este módulo se permitirá registrar un usuario en el sistema |
 | ----- | ----- | ----- | ----- | ----- | 
+| Entrada | Fuente | Salida | Destino | Restricciones |
+| ----- | ----- | ----- | ----- | ----- |
+| -email -contraseña -numero de contacto -nombre y apellido | base de datos | -formulario de registro -usuario empleado | base de datos | solo se podrán registrar usuario cliente si no es usuario administrador |
+| ----- | ----- |
+| Proceso | Rellenar formulario de registro
+Seleccionar cuenta empleado (administrador)
+Crear cuenta |
+| ----- | ----- |
+| Efecto colateral | Le saldrá una notificación de que ya el usuario aparece en la base de datos y no podrá registrarse de nuevo |
+
+
+| Codigo | Nombre | Fecha | Grado necesidad |
+| ----- | ----- | ----- | ----- | ----- |
+| IP0001 | MODULO DE RECUPERACION DE CONTRASEÑA | ----- | ALTA |
+| ----- | ----- |
+| Descripcion | En este módulo se permitirá registrar un usuario en el sistema |
+| ----- | ----- | ----- | ----- | ----- |
+| Entrada | Fuente | Salida | Destino | Restricciones |
+| ---- | ----- | ----- | ----- | ----- | 
+| -Email -numero de contacto | base de datos cliente | datos de recuperacion | base de datos | solo se podrá restablecer contraseña si los datos solicitados concuerdan con la base de datos |
+| ----- | ----- |
+| Proceso | Rellenar formulario de verificación y recuperación de datos
+Confirmar solicitud | 
+| ----- | ----- | 
+| Efecto colateral | Le saldrá una notificación de que No podrá seguir con la solicitud porque los datos suministrados no concuerdan con nuestra base de datos |
+
+
+
+
+
+
+
 
 
 
