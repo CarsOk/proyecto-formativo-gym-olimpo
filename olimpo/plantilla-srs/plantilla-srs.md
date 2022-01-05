@@ -147,10 +147,26 @@ Se asume que todo lo escrito en este documento contiene los requisitos del siste
 | Codigo | Nombre | Fecha |  Grado Necesidad |
 | ------ | ----- | ----- | ------- |
 | IP0001 | MODULO DE LOGIN | ---- | ALTA |
+| ----- | ----- |
 | Descripcion | Este es el módulo inicial, en él se podrá iniciar sesión para así poder entrar a las funcionalidades que se encuentran en el sistema. También se mostrarán un pequeño recuadro con promociones y la posibilidad de registrar nuevos usuarios(clientes) |
 | ----- | ----- | ----- | ----- | ----- |
 | Entradas | Fuente | Salida | Destino | Restricciones | 
 | ----- | ----- | ----- | ----- | ----- |
-|
+|-Email -Contraseña | Base de datos | -Nombre completo -Perfil del usuario -identificacion del usuario | -modulo de usuario -modulo de empleado -modulo de administrador | no se podra acceder al sistema si no esta previamente registrado | 
+| ----- | ----- |
+| Procesos | -iniciar sesion -clic introducir email -clic e introducir contraseña -ver descripcion del gym |
+| ---- | ----- |
+| Efecto colateral | Si no esta registrado no podrá ingresar al sistema y Al ingresar 3 veces la combinación de contraseña erróneamente se bloqueará la cuenta a la cuenta que desea ingresar |
+
+
+| Codigo | Nombre | Fecha | Grado necesidad |
+| ----- | ----- | ----- | ----- | 
+| IP0001 | MODULO DE REGISTRO | ----- | ALTA |
+| ----- | ----- |
+| Descripcion | En este módulo se permitirá registrar un usuario en el sistema |
+| ----- | ----- | ----- | ----- | ----- | 
+
+
+
 
 
